@@ -1,0 +1,24 @@
+{
+  "name": "browsers-project37",
+  "version": "1.0.0",
+  "description": "This repository functions as the basis of the quiz project in the [Browsers module](https://github.com/HackYourFuture/Browsers). Before the first group meeting, have a look through this code and try to understand how it works and how it is organised. We will explain the idea behind the structure below as well as the Backlog (which will identify what is needed to be implemented).",
+  "main": "index.js",
+  "scripts": {
+    "document": "node ./lib/document.js",
+    "test": "node ./lib/test.js",
+    "test-ci": "node ./lib/test.js CI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-Naddaf/browsers-project37.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-Naddaf/browsers-project37/issues"
+  },
+  "homepage": "https://github.com/F-Naddaf/browsers-project37#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
